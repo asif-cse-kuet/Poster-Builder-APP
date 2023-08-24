@@ -16,12 +16,12 @@ There will be three parts of a poster.
 https://cdn.shopify.com/videos/c/o/v/e319e14c37fb4eed93f3718e43ab1958.mp4
 
 ## Coding Guideline:
-Technologies:
-- PHP
+# Technologies:
 - Javascript
 - TailwindCSS
-- Framework or external libraries are NOT allowed like Laravel, React, Vue, jQuery etc.
-No Custom css. Only Tailwind classes are allowed.
+- PHP
+- Frameworks or external libraries are NOT allowed like Laravel, React, Vue, jQuery etc.
+- No Custom css. Only Tailwind classes are allowed.
 
 ## How to use:
 - Setup XAMPP server on your local machine
