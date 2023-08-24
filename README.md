@@ -20,7 +20,7 @@ Technologies:
 - PHP
 - Javascript
 - TailwindCSS
-Framework or external libraries are NOT allowed like Laravel, React, Vue, jQuery etc.
+- Framework or external libraries are NOT allowed like Laravel, React, Vue, jQuery etc.
 No Custom css. Only Tailwind classes are allowed.
 
 ## How to use:
