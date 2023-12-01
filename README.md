@@ -1,4 +1,4 @@
-## Poster-Builder-by-Zepto-Apps
+## Poster-Builder-Apps
 
 Tailwind CSS and Vanilla JS based Poster Builder App with Stunning UI created for the company Zepto Apps
 Title: Poster Builder
